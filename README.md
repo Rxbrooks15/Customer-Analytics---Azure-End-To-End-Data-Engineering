@@ -6,4 +6,6 @@ To address this request, I built a robust data pipelinne that extracts the data 
 This pipeline was then automated daily, ensuring up-to-date and accurate data.
 
 
-*Leveraged distributed computing in Azure
+*Leveraged distributed computing in Azure to run scalable queries in parallel
+*Synapse loads data
+* Run using daily triggers 
