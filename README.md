@@ -6,6 +6,10 @@ To address this request, I built a robust data pipelinne that extracts the data 
 This pipeline was then automated daily, ensuring up-to-date and accurate data.
 
 
-*Leveraged distributed computing in Azure to run scalable queries in parallel
-*Synapse loads data
-* Run using daily triggers 
+* Leveraged distributed computing in Azure to run scalable queries in parallel
+* Synapse loads data
+* Run using daily triggers
+* Key vault gives access to factory
+* Required roll back features
+<img width="461" height="329" alt="Screenshot 2026-03-12 215456" src="https://github.com/user-attachments/assets/9a9c156b-8cbb-42fa-a58c-b065cd9aeeb8" />
+
